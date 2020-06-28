@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-## Setup
+
 
 1. Make sure you have [Miniconda](https://conda.io/docs/user-guide/install/index.html#regular-installation) installed
     1. Conda is a package manager that sandboxes your project’s dependencies in a virtual environment
@@ -20,6 +19,4 @@
 5. Browse the code in `train.py`
     1. The `train.py` script is the entry point for training a model. It reads command-line arguments, loads the SQuAD dataset, and trains a model.
     2. You may find it helpful to browse the arguments provided by the starter code. Either look directly at the `parser.add_argument` lines in the source code, or run `python train.py -h`.
-=======
-# squad
->>>>>>> 6ba3de8777fbb227fa69a0b58fe2359ce7b46637
+
